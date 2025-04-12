@@ -72,7 +72,8 @@ PjStream/
 
 ## Screenshots
 
-Coming soon...
+![view](Asset/1.png)
+![view2](Asset/2.png)
 
 ## Contributing
 
