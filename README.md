@@ -1,9 +1,10 @@
-# PjStream - Video Streaming Platform
+![image](https://github.com/user-attachments/assets/a8f0e898-9a75-48ff-ae1e-b940e54fb59f)# PjStream - Video Streaming Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A modern video streaming platform built with React, TypeScript, and Supabase for authentication.
-
+# Live 
+- Link "https://pjstream.netlify.app"
 ## Features
 
 - User authentication (Login/Signup)
